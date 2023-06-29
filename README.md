@@ -5,7 +5,9 @@
 
 이번 스레드에서는 위의 챌린지를 진행하면서 작성한 코드 및 알게된 것을 기록할 예정입니다.
 
-![image](https://github.com/SeonGyuJang/CJ-TES-Project/assets/126837434/aeca3054-15c7-4862-845d-07daa7386453)
-![image](https://github.com/SeonGyuJang/CJ-TES-Project/assets/126837434/8427d67c-4d7a-4eb1-8fea-574d90d6bd88)
+![image](https://github.com/SeonGyuJang/CJ-TES_Project/assets/126837434/a3f2fff7-32b0-4db3-8e48-f4cd1cac937e)
+![image](https://github.com/SeonGyuJang/CJ-TES_Project/assets/126837434/5a2a3c7b-7d76-4611-a99b-3f54bafbd944)
+
+
 
 
