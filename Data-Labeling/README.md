@@ -18,4 +18,6 @@
 
 다음과 같이 사진과 .xml이 생성된 것을 볼 수 있습니다.
 
+![image](https://github.com/SeonGyuJang/CJ-TES-Project/assets/126837434/3a514014-e1a4-400e-9848-f3abfe1bcac0)
+
 ![image](https://github.com/SeonGyuJang/CJ-TES-Project/assets/126837434/d51e5184-a21e-4f2e-bb73-e32e47014dfa)
