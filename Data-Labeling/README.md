@@ -10,5 +10,12 @@
 
 저는 데이터 라벨링을 위해 labelImg 모듈을 사용하였습니다.
 
-![image](https://github.com/SeonGyuJang/CJ-TES-Project/assets/126837434/1975b09c-342f-422a-9df6-b1619f013355)
+![image](https://github.com/SeonGyuJang/CJ-TES-Project/assets/126837434/ed23742c-c706-4c19-a4f5-cbd25f146ea7)
 
+아래는 라벨링 예시입니다.
+
+![image](https://github.com/SeonGyuJang/CJ-TES-Project/assets/126837434/40004bb3-08d5-4788-960f-ea2309868e9e)
+
+다음과 같이 사진과 .xml이 생성된 것을 볼 수 있습니다.
+
+![image](https://github.com/SeonGyuJang/CJ-TES-Project/assets/126837434/d51e5184-a21e-4f2e-bb73-e32e47014dfa)
