@@ -21,3 +21,6 @@
 ![image](https://github.com/SeonGyuJang/CJ-TES-Project/assets/126837434/3a514014-e1a4-400e-9848-f3abfe1bcac0)
 
 ![image](https://github.com/SeonGyuJang/CJ-TES-Project/assets/126837434/d51e5184-a21e-4f2e-bb73-e32e47014dfa)
+
+---- -
+## 본격적으로 제공받은 데이터를 필요에 맞게 라벨링 하도록 하겠습니다. 저는 Yolo를 사용할 것이기 때문에 Yolo 형태로 저장하겠습니다.
